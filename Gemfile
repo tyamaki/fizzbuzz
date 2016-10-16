@@ -1,1 +1,3 @@
-gem 'coveralls', require: false
+source 'https://rubygems.org'
+
+gem 'rspec'
